@@ -1,0 +1,28 @@
+{
+    "name": "hitachi-soe",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "@egjs/vue3-view360": "^3.0.4",
+        "@vue/compat": "^3.3.4",
+        "aos": "^3.0.0-beta.6",
+        "core-js": "^3.31.1",
+        "three": "^0.154.0",
+        "uuid": "^9.0.0",
+        "vue": "^3.3.4",
+        "vue-image-zoomer": "^2.2.3",
+        "vue-product-spinner": "^0.2.0",
+        "vue-router": "^4.0.3",
+        "vuex": "^4.0.0"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~5.0.0",
+        "@vue/cli-plugin-router": "~5.0.0",
+        "@vue/cli-plugin-vuex": "~5.0.0",
+        "@vue/cli-service": "~5.0.0"
+    }
+}
