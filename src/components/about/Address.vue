@@ -15,32 +15,62 @@
                 <div class="d-flex gap-3">
                   <i class="fa-solid fa-map-location-dot"></i>
                   <span>
-                    : Building No.1, Aung Chan Thar Housing Estate,​ East Shwe
-                    Gone Daing Road, Bahan Tsp, Yangon, Myanmar.​
+                    : Building No.1, Aung Chan Thar Housing Estate,​ East Shwe Gone Daing Road, Bahan Tsp, Yangon, Myanmar.
                   </span>
                 </div>
                 <div class="d-flex gap-3">
                   <i class="fa-solid fa-phone-volume"></i>
-                  <span> : +95-1-546100, 556576​ </span>
+                  <span> : +95-9-77893350 </span>
                 </div>
-                <div class="d-flex gap-3 mb-3">
-                  <span>Fax</span>
-                  <span> : +95-1-546050​ </span>
+                <div class="d-flex gap-3">
+                  <i
+                    style="visibility: hidden"
+                    class="fa-solid fa-phone-volume"
+                  ></i>
+                  <span> : +95-9-969906610 </span>
+                </div>
+                <div class="d-flex gap-3">
+                  <i
+                    style="visibility: hidden"
+                    class="fa-solid fa-phone-volume"
+                  ></i>
+                  <span> : +95-1-546100 </span>
+                </div>
+                <div class="d-flex gap-3">
+                  <i
+                    style="visibility: hidden"
+                    class="fa-solid fa-phone-volume"
+                  ></i>
+                  <span> : +95-1-556576 </span>
+                </div>
+                <div class="d-flex gap-3">
+                  <i
+                    style="visibility: hidden"
+                    class="fa-solid fa-phone-volume"
+                  ></i>
+                  <span> : +95-1-556754 </span>
+                </div>
+                <div class="d-flex gap-3">
+                  <i
+                    style="visibility: hidden"
+                    class="fa-solid fa-phone-volume"
+                  ></i>
+                  <span> : +95-1-8603502 </span>
                 </div>
 
-                <div class="d-flex gap-3 mb-3">
-                  <span>Sales & Marketing</span>
-                  <span> : +95-1-556754, 8603502​ </span>
+                <div class="d-flex gap-3 mt-2">
+                  <i class="fa-solid fa-envelope"></i>
+                  <span> : sales-hisem.mm@hitachi-soe.com </span>
                 </div>
               </div>
               <div class="office-img">
-                <img src="@/assets/images/sale-office.jpg" alt="" />
+                <img src="@/assets/images/address/sale-office.jpg" alt="" />
               </div>
             </div>
           </div>
 
           <div data-aos="zoom-in" class="location-card shadow">
-            <h2>Factory</h2>
+            <h2>Factory in Yangon</h2>
             <div class="office">
               <div class="office-address">
                 <div class="d-flex gap-3">
@@ -50,24 +80,46 @@
                     Myothit (South), Yangon, Myanmar.​
                   </span>
                 </div>
-                <div class="d-flex gap-3">
+                <div class="d-flex gap-3 mt-3">
                   <i class="fa-solid fa-phone-volume"></i>
-                  <span>
-                    : +95-1590225, 591101, 2348126​, 2348213, 707488​
-                  </span>
+                  <span> : +95-1-590225 </span>
                 </div>
                 <div class="d-flex gap-3">
-                  <span>Fax</span>
-                  <span> : +95-1-2348502​ </span>
+                  <i
+                    style="visibility: hidden"
+                    class="fa-solid fa-phone-volume"
+                  ></i>
+                  <span> : +95-1-591101 </span>
                 </div>
-
                 <div class="d-flex gap-3">
-                  <span>24 Hour Service</span>
-                  <span> : +95-9-5128541​ </span>
+                  <i
+                    style="visibility: hidden"
+                    class="fa-solid fa-phone-volume"
+                  ></i>
+                  <span> : +95-1-2348126 </span>
+                </div>
+                <div class="d-flex gap-3">
+                  <i
+                    style="visibility: hidden"
+                    class="fa-solid fa-phone-volume"
+                  ></i>
+                  <span> : +95-1-2348213 </span>
+                </div>
+                <div class="d-flex gap-3 mt-3">
+                  <span>After-Sales Service (Yangon)</span>
+                  <span> : +95-9-946123770 </span>
+                </div>
+                <div class="d-flex gap-3">
+                  <span  style="visibility: hidden">After-Sales Service (Yangon)</span>
+                  <span> : +95-9-898123770 </span>
+                </div>
+                <div class="d-flex gap-3 mt-3">
+                  <i class="fa-solid fa-envelope"></i>
+                  <span> : aftersales-hisem.mm@hitachi-soe.com </span>
                 </div>
               </div>
               <div class="office-img">
-                <img src="@/assets/images/factory.jpg" alt="" />
+                <img src="@/assets/images/address/ygn.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -83,27 +135,39 @@
                     Tagon Tsp, Mandalay, Myanmar.​
                   </span>
                 </div>
-                <div class="d-flex gap-3">
+                <div class="d-flex gap-3 mt-3">
                   <i class="fa-solid fa-phone-volume"></i>
-                  <span> : +95-2-70627, 54925 </span>
+                  <span> : +95-969906609 </span>
                 </div>
                 <div class="d-flex gap-3">
                   <i
                     style="visibility: hidden"
                     class="fa-solid fa-phone-volume"
                   ></i>
-                  <span> : +95-9-200 5924 </span>
+                  <span> : +95-9-969906607 </span>
                 </div>
                 <div class="d-flex gap-3">
                   <i
                     style="visibility: hidden"
                     class="fa-solid fa-phone-volume"
                   ></i>
-                  <span> : +95-9-8601342 </span>
+                  <span> : +95-9-2005924 </span>
+                </div>
+                <div class="d-flex gap-3 mt-3">
+                  <span>After-sales service (Mandalay)</span>
+                  <span> : +95-9-420064929 </span>
+                </div>
+                <div class="d-flex gap-3 mt-3">
+                  <i class="fa-solid fa-envelope"></i>
+                  <span> : khaingkhaingoo.mm@hitachi-soe.com </span>
+                </div>
+                <div class="d-flex gap-3">
+                  <i class="fa-solid fa-envelope" style="visibility:hidden;"></i>
+                  <span> : thaephyuwai.mm@hitachi-soe.com </span>
                 </div>
               </div>
               <div class="office-img">
-                <img src="@/assets/images/mdy.jpg" alt="" />
+                <img src="@/assets/images/address/mdy.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -119,34 +183,43 @@
                     YGN-MDY Myoe Shaung Road, Nay Pyi Taw, Myanmar.
                   </span>
                 </div>
-                <div class="d-flex gap-3">
+                <div class="d-flex gap-3 mt-3">
                   <i class="fa-solid fa-phone-volume"></i>
-                  <span> : +95-67-27002 </span>
+                  <span> : +95-9-940590047 </span>
                 </div>
                 <div class="d-flex gap-3">
                   <i
                     style="visibility: hidden"
                     class="fa-solid fa-phone-volume"
                   ></i>
-                  <span> : +95-67-27003 </span>
+                  <span> : +95-9-977893354 </span>
                 </div>
                 <div class="d-flex gap-3">
                   <i
                     style="visibility: hidden"
                     class="fa-solid fa-phone-volume"
                   ></i>
-                  <span> : +95-67-27004 </span>
+                  <span> : +95-9-977460873 </span>
+                </div>
+                <div class="d-flex gap-3 mt-3">
+                  <span>After-Sales Service (Nay Pyi Taw)</span>
+                  <span> : +95-9-452334688 </span>
                 </div>
                 <div class="d-flex gap-3">
-                  <i
-                    style="visibility: hidden"
-                    class="fa-solid fa-phone-volume"
-                  ></i>
-                  <span> : +95-67-27005 </span>
+                  <span style="visibility: hidden;">After-Sales Service (Nay Pyi Taw)</span>
+                  <span> : +95-9-977893354 </span>
+                </div>
+                <div class="d-flex gap-3 mt-3">
+                  <i class="fa-solid fa-envelope"></i>
+                  <span> : khinephoowai.mm@hitachi-soe.com </span>
+                </div>
+                <div class="d-flex gap-3">
+                  <i class="fa-solid fa-envelope" style="visibility:hidden;"></i>
+                  <span> : khinhninphyu.mm@hitachi-soe.com </span>
                 </div>
               </div>
               <div class="office-img">
-                <img src="@/assets/images/npt.jpg" alt="" />
+                <img src="@/assets/images/address/npt.jpg" alt="" />
               </div>
             </div>
           </div>

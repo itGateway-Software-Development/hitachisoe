@@ -19,7 +19,7 @@
         <img src="@/assets/images/director.png" alt="" />
         <div class="position">
           <h2>Managing Director</h2>
-          <h3>Mr.Makoto Shinohara</h3>
+          <h3>Mr. Makoto Shinohara</h3>
         </div>
       </div>
     </div>
@@ -30,46 +30,51 @@
 
     <table class="table table-bordered table-responsive">
       <tr data-aos="flip-up">
-        <td class="th">Company Name</td>
+        <td class="th" colspan="2">Company Name</td>
         <td>Hitachi Soe Electric & Machinery Co., Ltd (HISEM)</td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Paid Up Capital</td>
-        <td>USD 45 Millions (Hitachi Group 51%, SEM 49%)</td>
+        <td class="th" colspan="2">Paid Up Capital</td>
+        <td>USD 45 Millions (HIES 51%, SEM 49%)</td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Chairman</td>
+        <td class="th" colspan="2">Chairman</td>
         <td>U Kyaw Min Htun</td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Managing Director</td>
-        <td>Mr.Makoto Shinohara</td>
+        <td class="th" colspan="2">Managing Director</td>
+        <td>Mr. Makoto Shinohara</td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Work Force</td>
-        <td>Over 450 Staffs</td>
+        <td class="th" colspan="2">Work Force</td>
+        <td>Over 500 Staffs</td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Plant Area</td>
+        <td class="th" colspan="2">Plant Area</td>
         <td>Plant Area Site…40,000m2</td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Bank Reference</td>
-        <td>SMBC Bank, BTMU Bank, KBZ Bank, CB Bank</td>
+        <td class="th" colspan="2">Bank Reference</td>
+        <td>SMBC Bank, MUFG Bank, KBZ Bank, CB Bank</td>
       </tr>
       <tr data-aos="flip-up">
-        <td rowspan="2" class="th">Production Capacity & Range</td>
+        <td rowspan="2" colspan="2" class="th">Production Capacity </td>
         <td>Distribution Transformer over 8000 Unit per year</td>
       </tr>
       <tr data-aos="flip-up">
         <td>Power Transformer…800,000 kVA/per year</td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Rated Voltage Class</td>
-        <td>6.6kV, 11kV, 33kV, 66kV</td>
+        <td class="th" rowspan="2">Production Range</td>
+        <td class="th text-danger">Capacity</td>
+        <td>5kVA - 30,000kVA</td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Maintenance & Repair Service</td>
+        <td class="th text-danger">Voltage</td>
+        <td>3.3, 6.6, 11, 33, 66 kV</td>
+      </tr>
+      <tr data-aos="flip-up">
+        <td class="th" colspan="2">Maintenance & Repair Service</td>
         <td>
           Repair & maintenance of electrical transformers 50-100,000 kVA with
           different system voltages Mobile Unit and service teams headed by
@@ -77,7 +82,7 @@
         </td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Outline of Business</td>
+        <td class="th" colspan="2">Outline of Business</td>
         <td>
           Manufacturing, Installation, Leasing, Maintenance, Repair & Sales of
           Electrical Transformers, switchgear and transformer related
@@ -85,7 +90,7 @@
         </td>
       </tr>
       <tr data-aos="flip-up">
-        <td class="th">Mainly Supply to</td>
+        <td class="th" colspan="2">Mainly Supply to</td>
         <td>
           Government Tender Project, System Improvement Project, Industrial
           Zone, Construction

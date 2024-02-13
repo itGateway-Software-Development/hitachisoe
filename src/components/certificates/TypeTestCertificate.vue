@@ -93,7 +93,7 @@
           </div>
           <div class="row mb-3">
             <div class="col-5">Accreditation Body</div>
-            <div class="col-6 lh-base">: KERI (Korea)</div>
+            <div class="col-6 lh-base">: Korea Electrotchnology Research Institute (KERI) Republic of Korea</div>
           </div>
         </div>
 
@@ -119,7 +119,7 @@
           </div>
           <div class="row" data-aos="flip-down">
             <div class="col-lg-4 col-md-4">Accreditation Body</div>
-            <div class="col-lg-8 col-md-8">: KERI (Korea)</div>
+            <div class="col-lg-8 col-md-8">: Korea Electrotchnology Research Institute (KERI) Republic of Korea</div>
           </div>
         </div>
       </div>
@@ -146,7 +146,7 @@
           <div class="row mb-3">
             <div class="col-5">Ratings</div>
             <div class="col-6 lh-base">
-              :3 Phases-30000kVA-66000 V/ 33000 V-YNyn0(d11)-50Hz oil immersed
+              :3 Phases 30000kVA-66000 V/ 33000 V-YNyn0(d11)-50Hz oil immersed
               power transformer
             </div>
           </div>
@@ -172,7 +172,7 @@
           <div class="row" data-aos="flip-down">
             <div class="col-lg-4 col-md-4">Ratings</div>
             <div class="col-lg-8 col-md-8 lh-base">
-              : 3 Phases-30000kVA-66000 V/ 33000 V-YNyn0(d11)-50Hz oil immersed
+              : 3 Phases 30000kVA-66000 V/ 33000 V-YNyn0(d11)-50Hz oil immersed
               power transformer
             </div>
           </div>
@@ -239,8 +239,7 @@
           <div class="row" data-aos="flip-down">
             <div class="col-lg-4 col-md-4">Accreditation Body</div>
             <div class="col-lg-7 col-md-8">
-              : Korea Electrotchnology Research Institute (KERI) Republic of
-              Korea
+              : Korea Electrotchnology Research Institute (KERI) Republic of Korea
             </div>
           </div>
         </div>

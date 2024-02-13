@@ -17,7 +17,7 @@
         <div class="mobile-certificate-info">
           <div class="row mb-3">
             <div class="col-5">Title</div>
-            <div class="col-6">: Inspiration of the Year Global Award</div>
+            <div class="col-6">: Inspiration of the Year Global Award 2018 Southeast Asia Region Grand Prix</div>
           </div>
           <div class="row mb-3">
             <div class="col-5">Date</div>
@@ -31,7 +31,7 @@
           <div class="row" data-aos="flip-down">
             <div class="col-lg-4 col-md-4">Title</div>
             <div class="col-lg-8 col-md-8 lh-base">
-              : Inspiration of the Year Global Award
+              : Inspiration of the Year Global Award 2018 Southeast Asia Region Grand Prix
             </div>
           </div>
           <div class="row" data-aos="flip-down">

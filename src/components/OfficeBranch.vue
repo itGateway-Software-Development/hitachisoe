@@ -25,7 +25,7 @@
 
           <div class="col-lg-3 col-md-6 portfolio-item mb-3 filter-web">
             <div class="portfolio-wrap">
-              <img src="@/assets/images/npt.jpg" class="img-fluid" alt="" />
+              <img src="@/assets/images/address/npt.jpg" class="img-fluid" alt="" />
               <div class="portfolio-info">
                 <h4>Naypyitaw</h4>
                 <p></p>
@@ -36,12 +36,12 @@
           <div class="col-lg-3 col-md-6 portfolio-item mb-3 filter-web">
             <div class="portfolio-wrap">
               <img
-                src="@/assets/images/sale_office.jpg"
+                src="@/assets/images/address/sale-office.jpg"
                 class="img-fluid"
                 alt=""
               />
               <div class="portfolio-info">
-                <h4>Sale Office</h4>
+                <h4>Sale & Marketing Office</h4>
                 <p></p>
               </div>
             </div>
