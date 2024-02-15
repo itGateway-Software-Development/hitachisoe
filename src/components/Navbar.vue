@@ -424,7 +424,7 @@
           @click="isToggle = false"
         >
           <router-link class="mobile-menu-link" to="/mobile/news-events"
-            >News & Events</router-link
+            >Events & Activities</router-link
           >
           <router-link
             to="#"
@@ -432,7 +432,7 @@
             :class="{
               'route-active': currentRoute.substring(0, 5) === '/news',
             }"
-            >News & Events
+            >Events & Activities
             <div class="dropdown">
               <h2>
                 <i class="fa-solid fa-arrow-right-long me-2 text-danger"></i

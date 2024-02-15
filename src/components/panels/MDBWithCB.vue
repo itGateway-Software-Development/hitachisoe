@@ -35,7 +35,7 @@
             <td>Available Rating Current</td>
             <td class="text-center">A</td>
             <td class="text-center" colspan="2">
-              100A to 400A (Other Rating Upon Request)
+              100A to 4000A (Other Rating Upon Request)
             </td>
           </tr>
           <tr data-aos="flip-up">

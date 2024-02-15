@@ -2,7 +2,7 @@
   <div class="poweron-section">
     <div class="poweron-carousel swiper">
       <div class="swiper-wrapper">
-        <div class="swiper-slide" v-for="i in 1" :key="i">
+        <div class="swiper-slide" v-for="i in 2" :key="i">
           <div class="image-container">
             <img
               :src="require(`@/assets/images/transformers/poweron/${i}.jpg`)"
