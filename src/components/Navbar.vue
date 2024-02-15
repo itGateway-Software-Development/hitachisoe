@@ -158,7 +158,7 @@
             :class="{
               'route-active': currentRoute.substring(0, 9) === '/products',
             }"
-            >Products & Services
+            >Products
             <div class="dropdown">
               <div class="transformer product">
                 <ul>
@@ -262,34 +262,6 @@
                   </li>
                 </ul>
               </div>
-              <div class="panel product">
-                <ul>
-                  <li class="mb-2 header">OUR SERVICES</li>
-                  <li>
-                    <router-link to="/products/services/installation-service"
-                      >Installation Service</router-link
-                    >
-                  </li>
-                  <li>
-                    <router-link to="/products/services/aftersale-service">
-                      After Sale Serivce
-                    </router-link>
-                  </li>
-                  <li>
-                    <router-link to="/products/services/preventice-service">
-                      Preventice Maintenance Service
-                    </router-link>
-                  </li>
-                  <li>
-                    <router-link to="/comming"> Repairing Service </router-link>
-                  </li>
-                  <li>
-                    <router-link to="/products/services/testing-service">
-                      Testing & Inspection
-                    </router-link>
-                  </li>
-                </ul>
-              </div>
             </div>
           </router-link>
           <i class="bx bx-chevron-right mobile-arrow"></i>
@@ -308,6 +280,56 @@
           >
           <i class="bx bx-chevron-right mobile-arrow"></i>
         </div>
+
+        <div
+          class="mobile-menu service-menu"
+          :class="{ 'menu-animate': isToggle }"
+          @click="isToggle = false"
+        >
+          <router-link to="/products" class="mobile-menu-link"
+              >Services</router-link
+            >
+          <router-link
+            to="#"
+            class="product-services services desk-menu-link"
+            :class="{
+              'route-active': currentRoute.substring(0, 9) === '/services',
+            }"
+            >Services
+            <div class="dropdown">
+              <div class="panel product">
+                <ul>
+                  <li class="mb-2 header">OUR SERVICES</li>
+                  <li>
+                    <router-link to="/services/installation-service"
+                      >Installation Service</router-link
+                    >
+                  </li>
+                  <li>
+                    <router-link to="/services/aftersale-service">
+                      After Sale Serivce
+                    </router-link>
+                  </li>
+                  <li>
+                    <router-link to="/services/preventice-service">
+                      Preventice Maintenance Service
+                    </router-link>
+                  </li>
+                  <li>
+                    <router-link to="/comming"> Repairing Service </router-link>
+                  </li>
+                  <li>
+                    <router-link to="/services/testing-service">
+                      Testing & Inspection
+                    </router-link>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </router-link>
+          <i class="bx bx-chevron-right mobile-arrow"></i>
+        </div>
+
         <div
           class="mobile-menu about"
           :class="{ 'menu-animate': isToggle }"
@@ -959,7 +981,7 @@ a {
   position: absolute;
   top: 100%;
   left: 50%;
-  width: 65%;
+  width: 45%;
   transform: translateY(0) translateX(-50%);
   opacity: 0;
   pointer-events: none;
@@ -970,6 +992,11 @@ a {
   transition: 0.3s ease;
   padding: 30px 40px;
   visibility: hidden;
+}
+
+.product-services.services .dropdown {
+  left: 55%;
+  width: auto;
 }
 
 .product-services .dropdown ul li {
@@ -1025,7 +1052,7 @@ a {
 @media (max-width: 1620px) {
   .product-services .dropdown {
     position: absolute;
-    width: 75%;
+    width: 55%;
   }
 }
 
@@ -1278,9 +1305,13 @@ a {
 
   .product-services .dropdown {
     position: absolute;
-    width: 110%;
+    width: 100%;
     top: 93%;
     gap: 30px;
+  }
+
+  .product-services.services .dropdown {
+    left: 30%;
   }
 }
 
@@ -1361,12 +1392,16 @@ a {
   .product-services .dropdown {
     top: 66%;
   }
+
+  .product-services.services .dropdown {
+    top: 66%;
+    left: 40%;
+  }
 }
 
 @media (max-width: 880px) {
   .product-services .dropdown {
     gap: 0px;
-    width: 110%;
     left: 50%;
     padding: 30px 10px;
   }
@@ -1682,6 +1717,13 @@ a {
   .mb-language-open {
     background: #b1000e;
     color: #fff;
+  }
+
+  #app > nav.nav2 > div > div > div.mobile-menu.service-menu.menu-animate {
+    display: none !important;
+    visibility: hidden !important;
+    position: absolute !important;
+    opacity: 0 !important;
   }
 }
 </style>

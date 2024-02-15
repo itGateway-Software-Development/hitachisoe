@@ -62,7 +62,7 @@ const routes = [
     props: true,
   },
   {
-    path: "/products/services/:slug",
+    path: "/services/:slug",
     name: "Services",
     component: () => import("@/views/Services.vue"),
     props: true,

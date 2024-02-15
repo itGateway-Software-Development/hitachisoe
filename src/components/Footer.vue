@@ -28,10 +28,23 @@
       </div>
     </div>
 
-    <div class="global-site">
-      <router-link to="https://www.hitachi.com"
-        >Hitachi Global Website</router-link
-      >
+    <div class="d-flex justify-content-between aling-items-center mt-3 mb-4">
+      <div class="global-site">
+        <router-link to="https://www.hitachi.com"
+          >Hitachi Global Website</router-link
+        >
+      </div>
+      <div class="download">
+        <a href="/news/1.pdf" target="_blank"
+            >Social Innovation Forum </a
+          >
+          <a href="/news/2.pdf" target="_blank"
+          >Operations</a
+        >
+        <a href="/news/3.pdf" target="_blank"
+            >Contract</a
+          >
+      </div>
     </div>
 
     <div class="policy">
@@ -76,13 +89,19 @@ export default {};
   color: #040404;
 }
 
+.footer .download a {
+  color: #040404;
+  margin-left: 15px;
+  font-size: 80%;
+}
+
 .footer .link a:hover {
   color: #d95369;
   text-decoration: underline;
 }
 
-.global-site {
-  margin: 35px auto 20px;
+.footer .download a:hover {
+  color: #d95368;
 }
 
 .global-site a {
