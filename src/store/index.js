@@ -5,7 +5,7 @@ export default createStore({
     news: [
       {
         id: 0,
-        title: "Technical Collaboration Agreement  in Sept 2012 at Sedona.",
+        title: "Technical Collaboration Agreement Oil Immersed Amorphous Metal Transformer in Sept 2012 at Sedona.",
         day: "01",
         month: "Sept",
         year: "2012",
@@ -74,7 +74,7 @@ export default createStore({
       {
         id: 7,
         title:
-          "The Signing Ceremony of Ministry of Electricity and Energy Electricity Supply Enterprise Mandalay Electricity Supply Corporation And Hitachi Soe Electric & Machinery Co., Ltd.  National Electrification Project Phase 1 on 27 Nov 20217 ",
+          "The Signing Ceremony of Ministry of Electricity and Energy Electricity Supply Enterprise YESC Mandalay Electricity Supply Corporation And Hitachi Soe Electric & Machinery Co., Ltd.  National Electrification Project Phase 1 on 27 Nov 20217 ",
         day: "27",
         month: "Nov",
         year: "2017",

@@ -1,5 +1,5 @@
 <template>
-  <div class="kv11">
+  <div class="kV11">
     <h2>
       <span class="fw-bold"
         >(33/0.4)kV OFF LOAD TAP CHANGER DISTRIBUTION TRANSFORMER</span

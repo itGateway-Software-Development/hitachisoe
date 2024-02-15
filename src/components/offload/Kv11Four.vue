@@ -39,7 +39,7 @@
         </div>
         <div class="col-12 col-md-4 d-flex align-items-center main-bg-color">
           <p class="mt-3 mt-lg-0 px-2 px-lg-0">
-            Hermetically Sealed Type (Off Load Changer) Silicon
+            Hermetically Sealed Type (Off Load Tab Changer) Silicon
             <span class="text-warning">Steel</span> Core Transformer
           </p>
         </div>
@@ -69,7 +69,7 @@
             </tr>
             <tr>
               <th>Sr</th>
-              <th>(KVA)</th>
+              <th>kVA</th>
               <th>Po(W)</th>
               <th>1/2 load %</th>
               <th>Full load %</th>

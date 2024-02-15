@@ -39,7 +39,7 @@
           <tr data-aos="flip-up">
             <td>Degree of Protection</td>
             <td class="text-center">-</td>
-            <td colspan="2" class="text-center">IP 43</td>
+            <td colspan="2" class="text-center">IP 43 / 66</td>
           </tr>
           <tr data-aos="flip-up">
             <td>Enclosure Material</td>

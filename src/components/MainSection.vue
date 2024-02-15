@@ -62,7 +62,7 @@
           <div class="main-image main-image-right event-activity">
             <img
               class="about-img"
-              src="@/assets/images/main2.jpg"
+              src="@/assets/images/main2.png"
               alt="Social Innovation"
             />
             <a href="events/" class="main-image-button">Find out more &gt;</a>
@@ -189,7 +189,7 @@ export default {};
 }
 
 .main-image.event-activity {
-  background: url(../assets/images/main2.jpg) center center / cover no-repeat;
+  background: url(../assets/images/main2.png) center center / cover no-repeat;
 }
 
 .main-image:before {

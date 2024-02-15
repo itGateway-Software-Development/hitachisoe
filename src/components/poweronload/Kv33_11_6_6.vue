@@ -2,7 +2,7 @@
   <div class="kv11">
     <h2>
       <span class="fw-bold"
-        >(33/11)kV, (33/6.6)KV ON LOAD TAP CHANGER POWER TRANSFORMER</span
+        >(33/11)kV, (33/6.6)kV ON LOAD TAP CHANGER POWER TRANSFORMER</span
       >
       <button @click="showSpec" class="border-0">
         <i
@@ -69,7 +69,7 @@
             </tr>
             <tr>
               <th>Sr</th>
-              <th>(KVA)</th>
+              <th>kVA</th>
               <th>Po(W)</th>
               <th>1/2 load %</th>
               <th>Full load %</th>

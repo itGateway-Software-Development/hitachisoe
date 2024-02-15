@@ -72,7 +72,7 @@
             </tr>
             <tr>
               <th>Sr</th>
-              <th>(KVA)</th>
+              <th>kVA</th>
               <th>Po(W)</th>
               <th>1/2 load %</th>
               <th>Full load %</th>

@@ -2,7 +2,7 @@
   <div class="kv11">
     <h2>
       <span class="fw-bold"
-        >(66/33)kV, (66/11)KV, (66/6.6)KV ON LOAD TAP CHANGER POWER
+        >(66/33)kV, (66/11)kV, (66/6.6)kV ON LOAD TAP CHANGER POWER
         TRANSFORMER</span
       >
       <button @click="showSpec" class="border-0">
@@ -24,7 +24,7 @@
               <div class="row mb-3 mb-lg-0">
                 <div class="col-7 col-lg-6">Rated Secondary voltage</div>
                 <div class="col-5 col-lg-6">
-                  :&nbsp; 33000 V - 11000 V ~ 6600 V
+                  :&nbsp; 33000 V - 11000 V - 6600 V
                 </div>
               </div>
             </div>
@@ -72,7 +72,7 @@
             </tr>
             <tr>
               <th>Sr</th>
-              <th>(KVA)</th>
+              <th>kVA</th>
               <th>Po(W)</th>
               <th>1/2 load %</th>
               <th>Full load %</th>

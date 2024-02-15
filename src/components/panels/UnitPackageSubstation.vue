@@ -20,7 +20,7 @@
           <tr data-aos="flip-up">
             <td>Rated Voltage</td>
             <td class="text-center">kV</td>
-            <td class="text-center" colspan="2">6.6kV / 11kV / 6.6~11kV</td>
+            <td class="text-center" colspan="2">6.6kV / 11kV / 6.6 - 11kV</td>
           </tr>
           <tr data-aos="flip-up">
             <td>Rated Frequency</td>
@@ -92,7 +92,7 @@
           <tr data-aos="flip-up">
             <td>Type of Ventilation</td>
             <td class="text-center">-</td>
-            <td colspan="2" class="text-center">Natural Air</td>
+            <td colspan="2" class="text-center">Natural Air / Fan</td>
           </tr>
           <tr data-aos="flip-up">
             <td>Altitude</td>
