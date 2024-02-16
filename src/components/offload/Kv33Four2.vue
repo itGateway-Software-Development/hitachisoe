@@ -1,5 +1,5 @@
 <template>
-  <div class="kV11">
+  <div class="kv11">
     <h2>
       <span class="fw-bold"
         >(33/0.4)kV OFF LOAD TAP CHANGER DISTRIBUTION TRANSFORMER</span
@@ -22,7 +22,7 @@
               </div>
               <div class="row mb-3 mb-lg-0">
                 <div class="col-8">Rated Secondary voltage</div>
-                <div class="col-4">:&nbsp; 400/230 V</div>
+                <div class="col-4">:&nbsp; 400/230V</div>
               </div>
             </div>
             <div class="col-12 col-lg-5">

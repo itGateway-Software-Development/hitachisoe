@@ -51,7 +51,7 @@
             <div
               class="d-flex flex-column justify-content-center gap-2 h-100 p-3"
             >
-              <h4>{{ item.title }}</h4>
+              <h4 v-html="item.title"></h4>
               <div>
                 <span class="p-2 rounded text-white bg-info">{{
                   item.type ? item.type.toUpperCase() : ""

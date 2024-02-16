@@ -19,11 +19,11 @@
             <div class="col-12 col-lg-7">
               <div class="row mb-3">
                 <div class="col-8">Rated primary voltage</div>
-                <div class="col-4">:&nbsp; 11000V - 6600 V</div>
+                <div class="col-4">:&nbsp; 11000V - 6600V</div>
               </div>
               <div class="row mb-3 mb-lg-0">
                 <div class="col-8">Rated Secondary voltage</div>
-                <div class="col-4">:&nbsp; 400/230 V</div>
+                <div class="col-4">:&nbsp; 400/230V</div>
               </div>
             </div>
             <div class="col-12 col-lg-5">

@@ -74,7 +74,7 @@ export default createStore({
       {
         id: 7,
         title:
-          "The Signing Ceremony of Ministry of Electricity and Energy Electricity Supply Enterprise YESC Mandalay Electricity Supply Corporation And Hitachi Soe Electric & Machinery Co., Ltd.  National Electrification Project Phase 1 on 27 Nov 20217 ",
+          "The Signing Ceremony of Ministry of Electricity and Energy, Electricity Supply Enterprise, and Mandalay Electricity Supply Corporation, and Hitachi Soe Electric & Machinery Co., Ltd. for National Electrification Project Phase I on 27<sup>th</sup> Nov 2017.  ",
         day: "27",
         month: "Nov",
         year: "2017",
@@ -139,7 +139,7 @@ export default createStore({
       {
         id: 13,
         title:
-          "The Signing Ceremony of Ministry of Electricity and Energy Electricity Supply Enterprise Mandalay Electricity Supply Corporation And Hitachi Soe Electric & Machinery Co., Ltd. For National Electrification Project Phase 2 ",
+          "The Signing Ceremony of Ministry of Electricity and Energy, Electricity Supply Enterprise, and Mandalay Electricity Supply Corporation, and Hitachi Soe Electric & Machinery Co., Ltd. for National Electrification Project Phase II on 21<sup>st</sup>  Jan 2020. ",
         day: "21",
         month: "Jan",
         year: "2020",
@@ -217,7 +217,7 @@ export default createStore({
       {
         id: 21,
         title:
-          "Hitachi Soe Electric & Machinery Co., Ltd. participated in Mandalay Power and Machinery Show 2023 at Mandalay Convention Center, Mandalay from 8th to 10th December 2023.",
+          "Hitachi Soe Electric & Machinery Co., Ltd. participated in Mandalay Power and Machinery Show 2023 at Mandalay Convention Center, Mandalay from 8<sup>th</sup> to 10<sup>th</sup> December 2023.",
         day: "08",
         month: "Dec",
         year: "2023",
@@ -244,7 +244,7 @@ export default createStore({
       {
         id: 23,
         title:
-          "Sending 2nd Batch of engineers and skilled worker as Trainees to Nakajo Factory for one year on Dec 2023",
+          "Sending 2<sup>nd</sup> Batch of engineers and skilled worker as Trainees to Nakajo Factory for one year on Dec 2023",
         day: "29",
         month: "Dec",
         year: "2023",
@@ -257,7 +257,7 @@ export default createStore({
       {
         id: 24,
         title:
-          "ASEAN Young Talent Nexus FY 2023 in Japan from 5th Dec to 8th Dec 2023.",
+          "ASEAN Young Talent Nexus FY 2023 in Japan from 5<sup>th</sup> Dec to 8<sup>th</sup> Dec 2023.",
         day: "05",
         month: "Dec",
         year: "2023",
@@ -272,21 +272,21 @@ export default createStore({
       {
         id: 25,
         title:
-          "Donation for Mocha Cyclone's impact areas in Rakhine and Chin State on 15th June 2023 and supporting in restoration project in affective areas.",
+          "Supporting in restoration project of after-sales service of transformers in Mocha Cyclone affective areas and Donation for Mocha Cyclone’s impact areas in Rakhine and Chin State on 15<sup>th</sup> June 2023.  ",
         day: "15",
         month: "June",
         year: "2023",
         type: "event",
         img: [
-          require("@/assets/images/news/37.png"),
-          require("@/assets/images/news/38.png"),
-          require("@/assets/images/news/39.png"),
           require("@/assets/images/news/40.png"),
+          require("@/assets/images/news/39.png"),
+          require("@/assets/images/news/38.png"),
+          require("@/assets/images/news/37.png"),
         ],
       },
       {
         id: 26,
-        title: "76th Myanmar Independent Day Tournament at HISEM Factory",
+        title: "76<sup>th</sup> Myanmar Independent Day Tournament at HISEM Factory",
         day: "04",
         month: "Jan",
         year: "2024",
