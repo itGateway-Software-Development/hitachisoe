@@ -112,7 +112,7 @@ export default {
         link: "/products/powerOnLoad",
       },
       {
-        img: require("@/assets/images/transformers/highefficiency/1.jpg"),
+        img: require("@/assets/images/transformers/highefficiency/1.png"),
         title: "High Efficient Transformer",
         link: "/products/highEfficient",
       },
@@ -170,7 +170,7 @@ export default {
         link: "/products/panels/power-control",
       },
       {
-        img: require("/public/panels/marshal-2.png"),
+        img: require("/public/panels/Marshalling.png"),
         title: "Marshalling Kiosk",
         link: "/products/panels/marshalling-kiosk",
       },

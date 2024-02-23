@@ -1,12 +1,12 @@
 <template>
   <div class="offload-section">
     <div class="offload-carousel swiper">
-      <div class="swiper-wrapper">
-        <div class="swiper-slide" v-for="i in 2" :key="i">
+      <div class="swiper-wrapper ">
+        <div class="swiper-slide " v-for="i in 6" :key="i">
           <div class="image-container">
             <img
               :src="
-                require(`@/assets/images/transformers/highefficiency/${i}.jpg`)
+                require(`@/assets/images/transformers/highefficiency/${i}.png`)
               "
               alt=""
             />

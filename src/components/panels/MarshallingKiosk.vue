@@ -2,8 +2,7 @@
   <div class="panel-section">
     <h2>Marshalling Kiosk Panel</h2>
     <div class="img">
-      <img src="/panels/marshal-1.png" alt="" />
-      <img src="/panels/marshal-2.png" alt="" />
+      <vue-image-zoomer regular="/panels/Marshalling.png" />
     </div>
     <div class="specification mt-5 table-responsive">
       <table class="table table-bordered table-striped">

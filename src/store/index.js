@@ -286,6 +286,19 @@ export default createStore({
       },
       {
         id: 26,
+        title: "Accepting the internship students from Auston University from Oct to Dec 2023. ",
+        day: "04",
+        month: "Oct-Dec",
+        year: "2023",
+        type: "event",
+        img: [
+          require("@/assets/images/news/46.jpg"),
+          require("@/assets/images/news/45.jpg"),
+          require("@/assets/images/news/44.jpg"),
+        ],
+      },
+      {
+        id: 27,
         title: "76<sup>th</sup> Myanmar Independent Day Tournament at HISEM Factory",
         day: "04",
         month: "Jan",
