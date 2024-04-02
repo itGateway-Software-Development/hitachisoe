@@ -5,10 +5,13 @@
     </h2>
     <div class="testing-service-carousel swiper">
       <div class="swiper-wrapper">
-        <div class="swiper-slide">
-          <img src="@/assets/images/services/testing/banner.jpg" alt="" />
+        <div class="swiper-slide" v-for="i in 6" :key="i">
+          <img :src="require('@/assets/images/services/testing/'+i+'.jpg')" alt="" />
         </div>
       </div>
+      <div class="swiper-pagination mt-3" id="swiper-paginate"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
     </div>
 
     <div class="my-5">
@@ -90,6 +93,31 @@ export default {
 
     onMounted(() => {
       window.scrollTo(0, 0);
+
+      swiper.value = new Swiper(".swiper", {
+          speed: 300,
+          loop: true,
+          autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+          },
+          slidesPerView: 1,
+          spaceBetween: 20,
+          pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+            type: "bullets",
+          },
+          navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+          },
+          breakpoints: {
+          780: {
+            slidesPerView: 2,
+          },
+        },
+        });
     });
 
     return { swiper };
@@ -117,7 +145,11 @@ export default {
 }
 
 .testing-service .swiper {
-  height: 500px;
+  height: 550px;
+}
+
+.testing-service .swiper img {
+  filter: brightness(1);
 }
 
 .testing-service ol li,
@@ -138,10 +170,6 @@ export default {
 @media (max-width: 1500px) {
   .testing-service {
     padding: 0px 13%;
-  }
-
-  .testing-service .swiper {
-    height: 350px;
   }
 
   .testing-service h2 {
@@ -170,6 +198,10 @@ export default {
 
   .testing-service .row div {
     font-size: 17px !important;
+  }
+
+  .testing-service .swiper {
+    height: 450px;
   }
 }
 

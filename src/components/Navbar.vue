@@ -316,7 +316,7 @@
                     </router-link>
                   </li>
                   <li>
-                    <router-link to="/comming"> Repairing Service </router-link>
+                    <router-link to="/services/repair-service"> Repairing Service </router-link>
                   </li>
                   <li>
                     <router-link to="/services/testing-service">

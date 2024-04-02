@@ -11,15 +11,20 @@
   <div v-if="slug == 'testing-service'">
     <TestingService></TestingService>
   </div>
+  <div v-if="slug == 'repair-service'">
+    <RepairService></RepairService>
+  </div>
 </template>
 
 <script>
+import RepairService from '../components/services/RepairService'
 import TestingService from "../components/services/TestingService";
 import PreventiceMaintenance from "../components/services/PreventiceMaintenance";
 import AfterSaleService from "../components/services/AfterSaleService";
 import Installation from "../components/services/Installation";
 export default {
   components: {
+    RepairService,
     TestingService,
     PreventiceMaintenance,
     AfterSaleService,

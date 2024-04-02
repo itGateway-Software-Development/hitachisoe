@@ -8,56 +8,15 @@
     <br />
     <h3 class="fw-bold">Amorphous Metal Transformer (AMT)</h3>
     <p>
-      An amorphous metal transformer (AMT) is a type of energy efficient
-      transformer found on electric grids. The magnetic core of this transformer
-      is made with a ferromagnetic amorphous in the form of thin (e.g. 25 µm)
-      foils. These materials have high magnetic sustainability, very low
-      coercivity and high electrical resistance. The high resistance and thin
-      foils lead to low losses by eddy currents when subjected to alternating
-      magnetic fields. On the downside amorphous alloys have a lower saturation
-      induction and often a higher magnetostriction compared to conventional
-      crystalline iron-silicon electrical steel.
+      An amorphous metal transformer (AMT) is a type of energy efficient transformer, and the magnetic core of this transformer is made with a ferromagnetic amorphous metal. The typical material is an alloy of iron with boron, silicon, and phosphorus in the form of thin foil. These materials have high magnetic sustainability, very low coercivity and high electrical resistance. The high resistance and thin foil lead to low losses by eddy currents when subjected to alternating magnetic fields.  
+    </p>
+    <p>
+      In a transformer there are two types of losses which are generated during operation: No load loss and Load loss. The Amorphous material has great advantage in reducing No load loss and the amorphous metal transformer can reduce 70 to 80% No load Loss lower than the conventional type of transformer. The main application of amorphous metal Transformer is the grid distribution transformers, and the No-Load loss of these transformers makes up a significant part of the loss of the whole distribution network. 
+    </p>
+    <p>
+      HISEM produces in a range of 50kVA to 2500kVA, up to 33kV voltage level, three phase, natural cooled (ONAN) with no load tap changer or automatic on load tap changer transformer. Oil Immersed Type Distribution Amorphous Metal Transformers are designed and manufactured in accordance with the national and international standards (IEC, IEEE, etc.). 
     </p>
     <br />
-    <h3 class="fw-bold">Core Loss and Copper Loss</h3>
-    <p>
-      In a transformer the no load loss is dominated by the core loss. With an
-      amorphous core, this can be 70-80% lower than with traditional crystalline
-      materials. The loss under heavy load is dominated by the resistance of the
-      copper windings and thus called copper loss. Here the lower saturation
-      magnetization of amorphous cores tend to result in a lower efficiency at
-      full load. Using more copper and core material it is possible to
-      compensate for this. So high efficiency AMTs can be more efficient at low
-      and high load, though at a larger size. The more expensive amorphous core
-      material, the more difficult handling and the need for more copper
-      windings make an AMT more expensive than a traditional transformer.
-    </p>
-    <br />
-
-    <h3 class="fw-bold">Applications</h3>
-    <p>
-      The main application of AMTs are the grid distribution transformers rated
-      at about 50-1000 kVA. These transformers typically run 24 hours a day and
-      at a low load factor (average load divided by nominal load). The no load
-      loss of these transformers makes up a significant part of the loss of the
-      whole distribution net. Amorphous iron is also used in specialized
-      electric motors that operate at high frequencies of perhaps 350 Hz or
-      more.
-    </p>
-    <br />
-
-    <h3 class="fw-bold">Advantages and Disadvantages</h3>
-    <p>
-      More efficient transformers lead to a reduction of generation requirement
-      and, when using electric power generated from fossil fuels, less CO2
-      emissions. This technology has been widely adopted by large developing
-      countries such as China, India and Japan. AMT are in fact more
-      labor-intensive than conventional distribution transformer, a reason that
-      explains a very low adoption in the comparable (by size) European market.
-      These countries can potentially save 25-30 TWh electricity annually,
-      eliminate 6-8 GW generation investment, and reduce 20-30 million tons of
-      CO2 emission by fully utilizing this technology.
-    </p>
   </div>
 </template>
 

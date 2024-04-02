@@ -46,12 +46,18 @@
               data-aos="fade-up"
               data-aos-delay="100"
             >
-              <h3>Distribution Transformer</h3>
-              <p class="">
-                Our transformers are highly reliable, backed by proven
-                technology and the reinforced system established with the
-                cooperation of the Hitachi Group.
+              <h3>Oil Immersed Distribution Transformer </h3>
+              <p style="text-align: justify;" class="">
+                Hitachi Soe Electric & Machinery Co., Ltd (HISEM) have manufactured Oil Immersed Type Distribution Transformer with two categories, Hermetically Sealed Type Transformer & Conservator Tank Type Transformer. Oil Immersed Type Distribution Transformers are designed and manufactured in accordance with the national and international standards (IEC, IEEE, etc.). Those types of transformers are mostly used in electrical power distribution systems. The heat generated during operation is maintained and cooled at the normal temperature level with transformer oil. HISEM are available up to 3,000 kVA and 33 kV for Oil Immersed Distribution Transformer. 
               </p>
+              <div class="ps-3 mb-2">
+                <h6 class="fw-bold">1.1 Hermetically Sealed Type Oil Immersed Distribution Transformer </h6>
+                <p style="text-align: justify;" class="ps-4 ">HISEM produces in a range of 5kVA to 800kVA, up to 33kV voltage level, three or single phase, natural cooled (ONAN or KNAN) with no load tap changer or automatic on load tap changer transformer. Hermetically sealed transformer does not allow the cooling oil to come into contact with the atmosphere. As a result, it does not require oil change in certain periods as in transformer with conservator tank. </p>
+              </div>
+              <div class="ps-3 mb-2">
+                <h6 class="fw-bold">1.2 Conservator Tank Type Oil Immersed Distribution  </h6>
+                <p style="text-align: justify;" class="ps-4 ">HISEM produces in a range of 1,000kVA to 3,000kVA, up to 33kV voltage level, three or single phase, natural cooled (ONAN or KNAN) with no load tap changer or automatic on load tap changer transformer. The size of the conservator is designed as a result of calculations to store the oil whose volumes increases with temperature. The oil pressure is changed due to thermal effects, and the air exchange is sure to take moisture of the air through the silica gel into transformer tank. For this reason, it is necessary to do maintenance such as changing the silica gel and measuring the puncture voltage by sampling the oil.  </p>
+              </div>
             </div>
             <div
               class="img-container col-lg-6 col-sm-12 order-1 order-lg-2 text-center"
@@ -73,33 +79,10 @@
             <div
               class="dt col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
             >
-              <h3>Power Transformer</h3>
-              <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              <h3>Oil Immersed Power Transformer </h3>
+              <p style="text-align: justify;" class="fst-italic">
+                HISEM produces in a range of 3,000kVA to 30,000kVA, up to 66kV voltage level, three phase, natural cooled (ONAN) or forced cooled (ONAF) with no load tap changer or automatic on load tap changer power transformer. Oil Immersed Type Power Transformers are designed and manufactured in accordance with the national and international standards (IEC, IEEE, etc.). Those types of transformers are mostly used in electricity generation, electricity transmission & distribution substation, industrial plant, power generation center and electrical internal needs, etc. 
               </p>
-              <ul>
-                <li>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                </li>
-                <li>
-                  Duis aute irure dolor in reprehenderit in voluptate velit.
-                </li>
-                <li>
-                  Provident mollitia neque rerum asperiores dolores quos qui a.
-                  Ipsum neque dolor voluptate nisi sed.
-                </li>
-                <li>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                  aute irure dolor in reprehenderit in voluptate trideta
-                  storacalaperda mastiro dolore eu fugiat nulla pariatur.
-                </li>
-              </ul>
-              <a href="pwt.html"
-                ><button class="btn btn-lg careers_btn btn-danger">
-                  View More
-                </button>
-              </a>
             </div>
             <div class="img-container col-lg-6 order-1 order-lg-2 text-center">
               <img
@@ -118,23 +101,19 @@
               class="dt col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
             >
               <h3>Panels</h3>
-              <ul>
-                <li>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                </li>
-                <li>
-                  Duis aute irure dolor in reprehenderit in voluptate velit.
-                </li>
-                <li>
-                  Provident mollitia neque rerum asperiores dolores quos qui a.
-                  Ipsum neque dolor voluptate nisi sed.
-                </li>
-              </ul>
-              <a href="panel.html"
-                ><button class="btn btn-lg careers_btn btn-danger">
-                  View More
-                </button>
-              </a>
+              <p style="text-align: justify;" class="">
+                Hitachi Soe Electric & Machinery Co., Ltd (HISEM) have manufactured panel products with two categories, low voltage (LV) Panel & medium voltage (MV) panel. Panels are designed and manufactured in accordance with the national and international standards (IEC, IEEE, etc.). Those types of panels are mostly used in electrical power distribution systems.  
+
+                Low Voltage (LV) Panel and medium voltage (MV) panel are normally designed in compact size applied in indoor and outdoor power distribution system. Panel products are manufactured under the strict supervision of the electrical inspection team following strict procedures. Good quality products manufactured in accordance with international standards so that customers can benefit from them.  
+              </p>
+              <div class="ps-3 mb-2">
+                <h6 class="fw-bold">1.1 Low Voltage (LV) Panel  </h6>
+                <p style="text-align: justify;" class="ps-4">LV panels are produced according to customer request in addition to HISEM’s standard design. In HISEM, LV panels can be used indoor or outdoor, as well as floor stand, wall mounted and pole mounted type.  </p>
+              </div>
+              <div class="ps-3 mb-2">
+                <h6 class="fw-bold">1.2 Medium Voltage (MV) Panel   </h6>
+                <p style="text-align: justify;" class="ps-4">As medium voltage (MV) panel, HISEM produces 11kV hybrid VCB switchgear panel and LA, DS panel with drop out fuse (or) enclosed cutout fuse. LA, DS panel with drop out fuse or enclosed cutout fuse includes lightning arrester, disconnecting switch and drop out fuse or enclosed cutout fuse. Switchgear panels are fully factory assembly which include hybrid VCB, overcurrent & earth fault relay, CT, PT and lightning arrester. For the first time in Myanmar, Hybrid VCB is produced with Japanese technology. 11kV hybrid VCB is available in both 630A and 1250A rated current.  </p>
+              </div>
             </div>
             <div class="img-container col-lg-6 order-1 order-lg-2 text-center">
               <img
@@ -152,29 +131,20 @@
             <div
               class="dt col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center"
             >
-              <h3>Package Type Transformer</h3>
-              <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              <h3>Unit Package Substation </h3>
+              <p style="text-align: justify;" class="fst-italic mb-1">
+                The unit package substation is normally designed in compact size applied in indoor and outdoor power distribution system. HISEM’s unit package substations are prefabricated with fully factory assembly which include an integrated distribution transformer, MV and LV switchgear, power factor improvement equipment, backup power unit for OLTC and other related accessories such as lighting circuits, cooling facilities etc. The inside distribution transformer of both types of oil immersed and dry type are available in capacity ranging from 50kVA to 2000kVA with voltage level up to 33kV. The advantages of HISEM unit package substation are as follows: 
               </p>
-              <ul>
-                <li>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                </li>
-                <li>
-                  Duis aute irure dolor in reprehenderit in voluptate velit.
-                </li>
-                <li>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                  aute irure dolor in reprehenderit in voluptate trideta
-                  storacalaperda mastiro dolore eu fugiat nulla pariatur.
-                </li>
+              <ul class="ps-4" style="list-style: circle;">
+                <li>Suitable for indoor and outdoor applications</li>
+                <li>Safety for operating personnel </li>
+                <li>Compact design and fully factory assembly </li>
+                <li>Easy for transportation and installation </li>
+                <li>Minimal procuring, land space and installation time </li>
+                <li>Proof mechanical impact </li>
+                <li>Adequate access for carrying out routine maintenance work </li>
+                <li>Enclosure and all equipment are tested to be in-line with IEC recommendations  </li>
               </ul>
-              <a href="pt.html"
-                ><button class="btn btn-lg careers_btn btn-danger">
-                  View More
-                </button>
-              </a>
             </div>
             <div class="img-container col-lg-6 order-1 order-lg-2 text-center">
               <img

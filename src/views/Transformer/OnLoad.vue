@@ -2,7 +2,7 @@
   <div class="onload-section">
     <div class="onload-carousel swiper">
       <div class="swiper-wrapper">
-        <div class="swiper-slide" v-for="i in 12" :key="i">
+        <div class="swiper-slide" v-for="i in 15" :key="i">
           <div class="image-container">
             <img
               :src="require(`@/assets/images/transformers/onload/${i}.jpg`)"

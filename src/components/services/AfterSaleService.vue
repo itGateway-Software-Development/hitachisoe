@@ -5,10 +5,13 @@
     </h2>
     <div class="aftersale-service-carousel swiper">
       <div class="swiper-wrapper">
-        <div class="swiper-slide">
-          <img src="@/assets/images/services/aftersale/banner.jpg" alt="" />
+        <div class="swiper-slide" v-for="i in 8" :key="i">
+          <img :src="require('@/assets/images/services/aftersale/carousel/'+i+'.jpg')" alt="" />
         </div>
       </div>
+      <div class="swiper-pagination mt-3" id="swiper-paginate"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
     </div>
 
     <div class="my-5">
@@ -256,6 +259,24 @@ export default {
 
     onMounted(() => {
       window.scrollTo(0, 0);
+
+      swiper.value = new Swiper(".swiper", {
+          speed: 300,
+          loop: true,
+          autoplay: {
+            delay: 3000,
+            disableOnInteraction: false,
+          },
+          pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+            type: "bullets",
+          },
+          navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev",
+          },
+        });
     });
 
     return { swiper };
@@ -282,12 +303,17 @@ export default {
   bottom: -10px;
 }
 
-.service-process img {
-  width: 50%;
+.aftersale-service .swiper {
+  height: 600px;
 }
 
-.aftersale-service .swiper {
-  height: 500px;
+.aftersale-service .swiper img {
+  filter: brightness(1);
+  border: 2px solid #f2f2f2;
+}
+
+.service-process img {
+  width: 50%;
 }
 
 .aftersale-service ol li,
@@ -308,10 +334,6 @@ export default {
 @media (max-width: 1500px) {
   .aftersale-service {
     padding: 0px 13%;
-  }
-
-  .aftersale-service .swiper {
-    height: 350px;
   }
 
   .aftersale-service h2 {
@@ -338,6 +360,11 @@ export default {
   .aftersale-service {
     padding: 0px 1%;
   }
+
+  .aftersale-service .swiper {
+    height: 500px;
+  }
+  
 }
 
 @media (max-width: 990px) {
@@ -352,11 +379,20 @@ export default {
   .aftersale-service .row div {
     font-size: 17px !important;
   }
+
+  .aftersale-service .swiper {
+    height: 470px;
+  }
+  
 }
 
 @media (max-width: 770px) {
   .service-process img {
     width: 70%;
+  }
+
+  .aftersale-service .swiper {
+    height: 400px;
   }
 }
 
