@@ -22,9 +22,9 @@
                 <div class="col-5 col-lg-6">:&nbsp; 66000V</div>
               </div>
               <div class="row mb-3 mb-lg-0">
-                <div class="col-7 col-lg-6">Rated Secondary voltage</div>
+                <div class="col-7 col-lg-6">Rated secondary voltage</div>
                 <div class="col-5 col-lg-6">
-                  :&nbsp; 33000V - 11000V - 6600V
+                  :&nbsp; 33000V/11000V/6600V
                 </div>
               </div>
             </div>
@@ -54,7 +54,7 @@
               <th>No</th>
               <th>Capacity</th>
               <th>No load losses</th>
-              <th rowspan="2">Load losses at 75&deg;C PK (W)</th>
+              <th rowspan="2">Load losses at 75&deg;C P<sub>k</sub> (W)</th>
               <th rowspan="2">Total losses at 75&deg;C (W)</th>
               <th rowspan="2">Imped-ance at 75&deg;C lz%</th>
               <th rowspan="2">No load Current lo%</th>
@@ -68,12 +68,12 @@
               </th>
               <th colspan="3">Outline Dimension Approx.(mm)</th>
               <th rowspan="2">Oil Quantity (litres)</th>
-              <th rowspan="2">Total Weight (kgs)</th>
+              <th rowspan="2">Total Weight (kg)</th>
             </tr>
             <tr>
               <th>Sr</th>
               <th>kVA</th>
-              <th>Po(W)</th>
+              <th>P<sub>o</sub>(W)</th>
               <th>1/2 load %</th>
               <th>Full load %</th>
               <th>L</th>

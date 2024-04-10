@@ -55,7 +55,7 @@
     <div class="row">
       <div class="fs-5 mb-3 fw-bold col-3 col-sm-2 col-md-1">Location</div>
       <div class="fs-5 mb-3 col-9 col-sm-10 col-md-11">
-        : Ayerwady Division, Myaung Mya 66 kV Substation
+        : Ayeyarwady Division, Myaung Mya 66 kV Substation
       </div>
     </div>
     <div class="row my-5 experience">

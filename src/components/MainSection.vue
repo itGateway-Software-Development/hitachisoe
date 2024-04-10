@@ -38,7 +38,7 @@
               </h4>
               <p>
                 Discover how Hitachi's Social Innovation Business is
-                contributing to resolving social issues in in Southeast Asia
+                contributing to resolving social issues in Southeast Asia
                 like Indonesia, Myanmar, Philippines, Singapore, Thailand, and
                 Vietnam.
               </p>

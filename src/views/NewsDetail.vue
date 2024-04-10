@@ -9,8 +9,7 @@
       <div>&nbsp;</div>
     </div>
     <div class="news-detail-container p-3 p-md-5">
-      <h2 class="fw-bold mb-4">
-        {{ newsDetail.title }}
+      <h2 v-html="newsDetail.title" class="fw-bold mb-4">
       </h2>
       <div class="d-flex align-items-center gap-3 my-3">
         <i class="fa-regular fa-calendar-days text-danger fs-4"></i>
