@@ -54,9 +54,8 @@
               src="@/assets/images/carousel2.jpg"
               alt="About Hitachi"
             />
-            <a href="about-us/" class="main-image-button">Find out more &gt;</a>
             <div class="main-image-content">
-              <h4><a href="/about-us/company-profile">About Hitachi Soe</a></h4>
+              <h4><router-link to="/about-us/company-profile">About Hitachi Soe</router-link></h4>
             </div>
           </div>
           <div class="main-image main-image-right event-activity">
@@ -65,10 +64,9 @@
               src="@/assets/images/main2.png"
               alt="Social Innovation"
             />
-            <a href="events/" class="main-image-button">Find out more &gt;</a>
             <div class="main-image-content">
               <h4>
-                <a href="/news-events/events/">Events &amp; Activities</a>
+                <router-link to="/news-events/events/">Events &amp; Activities</router-link>
               </h4>
             </div>
           </div>

@@ -9,7 +9,7 @@
                     <div class="career-box">
                         <h2 class="open-careers_ttl">Careers</h2>
                         <p class="open-careers_txt">Contributing to society through technology.</p>
-                        <p><a class="careers_btn btn btn-lg btn-danger" href="/rd/careers/index.html"><span>Learn more</span><i class="uil uil-angle-right"></i></a></p>
+                        <p><a class="careers_btn btn btn-lg btn-danger" href="#"><span>Learn more</span><i class="uil uil-angle-right"></i></a></p>
                     </div>
                 </div>
             </div>
