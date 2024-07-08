@@ -176,6 +176,7 @@ export default {};
 
 .certificate-card img {
   width: 200px;
+  height: 300px;
 }
 
 .certificate-card .certificate-btn {

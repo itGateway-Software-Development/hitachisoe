@@ -33,7 +33,7 @@
     </p>
     <p>
       Our commitment of managing responsible business is that we make sure
-      meeting the requirements of ISO9001:2015&14001:2015 in our business
+      meeting the requirements of ISO9001:2015 & 14001:2015 in our business
       activities such as Manufacturing, Maintenance and Repair Services of
       Electrical Power and Distribution Transformers and Electrical panels.
       Likewise, we will continue our promise to produce reliable and
@@ -46,7 +46,7 @@
       continuous commitment, consistent philosophy of creating value, we would
       like to thank support from our stakeholders and customers.
     </p>
-    <p class="text-end mt-5 fw-bold">Chairman Kyaw Min Htun</p>
+    <p class="text-end mt-5 fw-bold">Dr. Kyaw Min Htun</p>
   </div>
 </template>
 

@@ -170,6 +170,7 @@ export default {
   .news .news-info h4 {
     line-height: 30px;
     font-size: 19px;
+    letter-spacing: 2px;
   }
 }
 </style>

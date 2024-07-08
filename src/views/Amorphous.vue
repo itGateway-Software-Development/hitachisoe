@@ -66,4 +66,13 @@ export default {};
     width: 100%;
   }
 }
+
+@media (max-width: 430px) {
+  .amorphous p {
+    font-size: 19px;
+    text-indent: 0px;
+    text-align: justify;
+    line-height: 25px;
+  }
+}
 </style>

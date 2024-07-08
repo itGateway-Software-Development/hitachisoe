@@ -12,7 +12,7 @@
         <img src="@/assets/images/chairmann.png" alt="" />
         <div class="position">
           <h2>Chairman</h2>
-          <h3>U Kyaw Min Htun</h3>
+          <h3>Dr. Kyaw Min Htun</h3>
         </div>
       </div>
       <div class="img-card" data-aos="fade-left">
@@ -31,7 +31,7 @@
     <table class="table table-bordered table-responsive">
       <tr data-aos="flip-up">
         <td class="th" colspan="2">Company Name</td>
-        <td>Hitachi Soe Electric & Machinery Co., Ltd (HISEM)</td>
+        <td>Hitachi Soe Electric & Machinery Co., Ltd. (HISEM)</td>
       </tr>
       <tr data-aos="flip-up">
         <td class="th" colspan="2">Paid Up Capital</td>

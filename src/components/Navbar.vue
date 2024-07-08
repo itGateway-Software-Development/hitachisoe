@@ -931,7 +931,7 @@ a {
 }
 
 .nav2 .navbar-brand img {
-  width: 26px;
+  width: 23px;
   height: auto;
 }
 

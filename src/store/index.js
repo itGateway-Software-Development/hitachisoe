@@ -113,7 +113,6 @@ export default createStore({
           require("@/assets/images/news/10.png"),
           require("@/assets/images/news/11.png"),
           require("@/assets/images/news/12.png"),
-          require("@/assets/images/news/13.png"),
         ],
       },
       {
@@ -179,7 +178,7 @@ export default createStore({
       {
         id: 17,
         title:
-          "Sending engineers and skilled worker as Trainees to Nakajo Factory for one year on 30 Jan 2023.",
+          "Sending engineers and skilled worker as Trainees to Nakajo Factory for one year in 30 Jan 2023.",
         day: "30",
         month: "Jan",
         year: "2023",
@@ -244,7 +243,7 @@ export default createStore({
       {
         id: 23,
         title:
-          "Sending 2<sup>nd</sup> Batch of engineers and skilled worker as Trainees to Nakajo Factory for one year on Dec 2023",
+          "Sending 2<sup>nd</sup> Batch of engineers and skilled worker as Trainees to Nakajo Factory for one year in Dec 2023",
         day: "29",
         month: "Dec",
         year: "2023",
